@@ -1,0 +1,38 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Night Owl",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorCustomizations": {
+        "[Night Owl]": {
+            "editor.background": "#081522"
+        }
+    },
+    "editor.renderIndentGuides": false,
+    "workbench.list.openMode": "doubleClick",
+    "files.autoSave": "afterDelay",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "emmet.triggerExpansionOnTab": true,
+    "workbench.tree.indent": 14,
+    "workbench.tree.renderIndentGuides": "none",
+    "editor.detectIndentation": false,
+    "explorer.openEditors.visible": 0,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "window.zoomLevel": 0,
+    "colorize.languages": [
+
+        "css",
+        "sass",
+        "scss",
+        "less",
+        "postcss",
+        "sss",
+        "stylus",
+        "xml",
+        "svg",
+        "js",
+        "javascript"
+    ],
+    "python.pythonPath": "/usr/bin/python"
+}
